@@ -19,7 +19,8 @@ namespace ProgramsForNUnitTesting
             #endregion
 
             //PrintDayOfWeek.calDayOfWeek();
-            TempConversion.convertTemperature();
+            //TempConversion.convertTemperature();
+            MonthlyPayment.calMOnthlyPayment();
             Console.ReadKey();
         }
     }
