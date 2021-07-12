@@ -20,7 +20,8 @@ namespace ProgramsForNUnitTesting
 
             //PrintDayOfWeek.calDayOfWeek();
             //TempConversion.convertTemperature();
-            MonthlyPayment.calMOnthlyPayment();
+            //MonthlyPayment.calMOnthlyPayment();
+            Sqrt.calSqrt();
             Console.ReadKey();
         }
     }
